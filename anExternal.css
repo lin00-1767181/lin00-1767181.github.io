@@ -1,0 +1,29 @@
+#UWphoto {
+    width: 300px;
+    height: 233px;
+    margin: 5px;
+    float: right;
+}
+
+#UWphoto2 {
+    width: 800px;
+    height: 233px;
+    margin: 5px;
+    border-style: solid;
+    border-width: 5px;
+    border-color:#a3b0c6;
+    border-radius: 20px;
+}
+
+#lol {
+    height: 233px;
+    float: right;
+}
+
+#lol2{
+    height: 233px;
+    border-style: solid;
+    border-width: 5px;
+    border-color:#a3b0c6;
+    border-radius: 20px;
+}
