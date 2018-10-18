@@ -1,0 +1,74 @@
+#Header {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    text-align: center;
+    background-color: rgb(157, 91, 219);
+}
+
+#LeftNav {
+    width: 400px;
+    border: solid 8px black;
+    float: left;
+    text-align: center;
+    padding-bottom: 8px;
+    background-color: rgb(157, 91, 219);
+}
+
+#Content {
+    width: 700px;
+    border: solid 8px black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 15px;
+    background-color: rgb(157, 91, 219);
+}
+
+#Footer {
+    border: solid 8px black;
+    text-align: center;
+    background-color: rgb(157, 91, 219);
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+#Header h1 {
+    font-size: 60px;
+    font-family: "Passion one";
+    color: rgb(202, 157, 43);
+    font-weight: bold;
+}
+
+Body {
+    background-color: rgb(157, 91, 219);
+}
+
+p {
+    color: white;
+    font-family: "Arial";
+    font-weight: bold;
+}
+
+h3 {
+    font-family: "Passion one";
+    color: rgb(202, 157, 43);
+    font-weight: bold;
+    font-size: 48px;
+}
+
+a {
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+body {
+    background-color: black;
+}
