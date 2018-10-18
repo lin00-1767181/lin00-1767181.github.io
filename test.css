@@ -6,6 +6,7 @@
     border: solid 8px black;
     text-align: center;
     background-color: rgb(157, 91, 219);
+    border-radius: 40px;
 }
 
 #LeftNav {
@@ -15,6 +16,7 @@
     text-align: center;
     padding-bottom: 8px;
     background-color: rgb(157, 91, 219);
+    border-radius: 40px;
 }
 
 #Content {
@@ -26,12 +28,14 @@
     text-align: center;
     padding: 15px;
     background-color: rgb(157, 91, 219);
+    border-radius: 40px;
 }
 
 #Footer {
     border: solid 8px black;
     text-align: center;
     background-color: rgb(157, 91, 219);
+    border-radius: 40px;
 }
 
 ul {
@@ -42,7 +46,7 @@ ul {
 #Header h1 {
     font-size: 60px;
     font-family: "Passion one";
-    color: rgb(202, 157, 43);
+    color: #FFC0CB;
     font-weight: bold;
 }
 
@@ -58,7 +62,7 @@ p {
 
 h3 {
     font-family: "Passion one";
-    color: rgb(202, 157, 43);
+    color: #FFC0CB;
     font-weight: bold;
     font-size: 48px;
 }
